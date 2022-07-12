@@ -1,0 +1,15 @@
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/bin/Debug/net6.0/DNASTRAND
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/bin/Debug/net6.0/DNASTRAND.deps.json
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/bin/Debug/net6.0/DNASTRAND.runtimeconfig.json
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/bin/Debug/net6.0/DNASTRAND.dll
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/bin/Debug/net6.0/DNASTRAND.pdb
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/obj/Debug/net6.0/DNASTRAND.csproj.AssemblyReference.cache
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/obj/Debug/net6.0/DNASTRAND.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/obj/Debug/net6.0/DNASTRAND.AssemblyInfoInputs.cache
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/obj/Debug/net6.0/DNASTRAND.AssemblyInfo.cs
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/obj/Debug/net6.0/DNASTRAND.csproj.CoreCompileInputs.cache
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/obj/Debug/net6.0/DNASTRAND.dll
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/obj/Debug/net6.0/refint/DNASTRAND.dll
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/obj/Debug/net6.0/DNASTRAND.pdb
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/obj/Debug/net6.0/DNASTRAND.genruntimeconfig.cache
+/Users/enmanueldiaz/Projects/DNASTRAND/DNASTRAND/obj/Debug/net6.0/ref/DNASTRAND.dll
